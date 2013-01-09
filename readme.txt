@@ -1,6 +1,3 @@
-gridlayoutshock
-===============
-
 === Grid Layout Shock ===
 Contributors: WpThemeShock	 
 Donate link: 
